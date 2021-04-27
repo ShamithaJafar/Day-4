@@ -1,0 +1,5 @@
+D:\STUDY MATERIALS\MODULE 3\Programs\DAY 4\Day 4\Assembly1\bin\Debug\Assembly1.dll
+D:\STUDY MATERIALS\MODULE 3\Programs\DAY 4\Day 4\Assembly1\bin\Debug\Assembly1.pdb
+D:\STUDY MATERIALS\MODULE 3\Programs\DAY 4\Day 4\Assembly1\obj\Debug\Assembly1.csproj.CoreCompileInputs.cache
+D:\STUDY MATERIALS\MODULE 3\Programs\DAY 4\Day 4\Assembly1\obj\Debug\Assembly1.dll
+D:\STUDY MATERIALS\MODULE 3\Programs\DAY 4\Day 4\Assembly1\obj\Debug\Assembly1.pdb
